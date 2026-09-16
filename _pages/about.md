@@ -13,14 +13,11 @@ My research focuses on the theoretical understanding of electronic, spin, and op
 
 ## Research Interests
 
-- Two-dimensional materials and van der Waals heterostructures
+- Light–matter interactions
 - Excitons and optical properties
 - Rashba spin splitting and spin–orbit physics
-- Quantum materials for energy applications
-- Hydrogen evolution reaction (HER)
-- Oxygen evolution reaction (OER)
-- Ultrafast spin dynamics
-- Light–matter interactions
+- Two-dimensional materials and van der Waals heterostructures
+- Catalysis
 - Real-time time-dependent density functional theory (RT-TDDFT)
 - First-principles many-body perturbation theory
 
@@ -30,8 +27,9 @@ My research primarily uses density functional theory (DFT) and many-body perturb
 
 - DFT and DFT+U
 - Spin–orbit coupling (SOC)
-- GW and Bethe–Salpeter equation (GW-BSE)
+- Many-body perturbation Theory, GW and Bethe–Salpeter equation (GW-BSE)
 - Real-time TDDFT
+- VASP
 - Quantum ESPRESSO
 - YAMBO
 
