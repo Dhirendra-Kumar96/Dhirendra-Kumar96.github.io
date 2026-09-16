@@ -19,7 +19,6 @@ My research focuses on the theoretical understanding of electronic, spin, and op
 - Quantum materials for energy applications
 - Hydrogen evolution reaction (HER)
 - Oxygen evolution reaction (OER)
-- CO₂ reduction reaction (CO₂RR)
 - Ultrafast spin dynamics
 - Light–matter interactions
 - Real-time time-dependent density functional theory (RT-TDDFT)
